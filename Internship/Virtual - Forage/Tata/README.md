@@ -1,4 +1,4 @@
-**Title: Data Visualisation: Empowering Business with Effective Insights**
+**Title: Data Visualization: Empowering Business with Effective Insights**
 
 This folder contains virtual internship by Tata done via Forage on Data Visualisation.
 
