@@ -1,6 +1,8 @@
 **Dataset Used:** https://www.kaggle.com/code/ayushimishra2809/movie-recommendation-system/data?select=ratings.csv
-**Code File Name:**
-**Interactive Output File name:**
+
+**Code File Name:** Movie_Recommendation_System_Project.ipynb
+
+**Interactive Output File name:** Edureka Movie Recommendation - Final Project - Output with IPyWidgets.mp4
 
 The project had 3 requirements:
 
