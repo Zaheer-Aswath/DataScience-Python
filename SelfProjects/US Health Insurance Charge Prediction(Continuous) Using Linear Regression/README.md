@@ -8,6 +8,7 @@ The dataset used in this project is downloaded from - https://www.kaggle.com/dat
           Developed a machine learning model to predict insurance charges based on demographic and health-related factors such as age, sex, BMI, number of children, and smoking status.
           
 **Responsibilities and Achievements:**
+
 **1. Data Exploration and Preprocessing:**
 
 * Loaded and examined the dataset from https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset/
